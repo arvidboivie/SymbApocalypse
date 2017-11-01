@@ -49,6 +49,18 @@ När du försöker få någon att göra som du vill, slå Övertygande. På en *
 #### Tala med andar
 
 #### Analysera
+När du försöker klura ut något om en plats eller person, slå Listig.
+På **10+** håll tre. På **7-9** håll en.Spendera håll för att ställa frågor från listan nedan. När du använder kunskapen du fått får du +1 framåt.
+
+* WIP - Frågor
+
+#### Lura/Smyga
+När du försöker lura någon, slå Diskret. På en **träff** går de på det, åtminstonde tillfälligt. På **10+**, välj tre. På **7-9**, välj två:
+
+* Du skapar en möjlighet.
+* Du avslöjar en svaghet.
+* Du förvirrar dem en stund.
+* Du undviker vidare inblandning.
 
 ## Friluftsliv
 
