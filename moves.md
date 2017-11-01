@@ -27,12 +27,29 @@ När du försöker undvika en attack eller fara, slå Kvick. På **10+** lyckas 
 ## Samtal
 
 #### Köpslå
+När du vill köpa eller sälja ett ovanligt föremål, slå Övertygande. På **10+** så finns det du söker till ett rimligt pris. På **7-9** får du välja en:
+
+* Du får betala mer än väntat.
+* Du får köpa det till rimligt pris om du först gör säljaren en tjänst.
+
+#### Sälja skatter
+// WIP - Får inte till det här riktigt //
+
+När du säljer en skatt till en intresserad köpare, slå Övertygande. På en **träff** erbjuder köparen ett bra pris. På **7-9** får du välja en:
+
+* Er affär drar inte till sig någons uppmärksamhet.
+* Artefakten går att spåra tillbaka till dig.
+
+// WIP //
+
 
 #### Övertyga
 
 #### Hota
 
 #### Tala med andar
+
+#### Analysera
 
 ## Friluftsliv
 
