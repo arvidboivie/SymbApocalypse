@@ -8,7 +8,7 @@ När du attackerar en fiende, slå Styrka. På en träff gör du din skada, och 
 * Gör extra skada
 * Ta något från dem
 
-På 7-9, välj en av följande:
+På **7-9**, välj en av följande:
 
 * Fienden lyckas attackera dig
 * Du hamnar i en knipa
@@ -30,19 +30,19 @@ På 7-9, välj en av följande:
 ## Friluftsliv
 
 #### Utforska
-När du utforskar en ny plats, slå Listig. På en träff inser du platsens syfte. På 10+ vet du något intressant och användbart om den.
+När du utforskar en ny plats, slå Listig. På en träff inser du platsens syfte. På **10+** vet du något intressant och användbart om den.
 
 #### Överleva
 
 #### Trotsa mörkret
 När du trotsar mörkret och försöker motstå korruption, slå Viljestark.
-På 10+, välj en. På 7-9 väljer du två:
+På **10+**, välj en. På **7-9** väljer du två:
 
 * Markera korruption.
 * Gör en korruption bestående.
 * Du stör det som vilar i Mörkret.
 
-6-: Markera korruption. Berättaren gör ett drag.
+**6-:** Markera korruption. Berättaren gör ett drag.
 
 
 #### Förstå artefakt
