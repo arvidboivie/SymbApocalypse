@@ -58,6 +58,15 @@ När du försöker få någon att göra som du vill, slå Övertygande. På en *
 När du utforskar en ny plats, slå Listig. På en **träff** inser du platsens syfte. På **10+** vet du något intressant och användbart om den.
 
 #### Överleva
+När ni försöker överleva i vildmarken och är *väl förberedda*, slår den som leder vägen Vaksam+1. På **10+** fortsätter ni vara *väl förberedda*. På **7-9** är ni inte längre *väl förberedda* och väljer en från listan nedan.
+
+Är ni inte *väl förberedda*, slår den som leder vägen Vaksam. På **10+** välj en, på **7-9** välj två:
+
+* Ni hittar inget att äta. Alla stryker en ration.
+* Ni får inga chanser att vila. Alla tar -1 fortsatt, tills de får en god natts sömn.
+* Någon av skogens invånare blir varse om er närvaro.
+* Ni lyckas inte undvika vildmarkens Mörker. Alla markerar korruption.
+
 
 #### Trotsa Mörkret
 När du trotsar Mörkret och försöker motstå korruption, slå Viljestark.
