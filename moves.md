@@ -54,14 +54,6 @@ På **10+** håll tre. På **7-9** håll en.Spendera håll för att ställa frå
 
 * WIP - Frågor
 
-#### Lura/Smyga
-När du försöker lura någon, slå Diskret. På en **träff** går de på det, åtminstonde tillfälligt. På **10+**, välj tre. På **7-9**, välj två:
-
-* Du skapar en möjlighet.
-* Du avslöjar en svaghet.
-* Du förvirrar dem en stund.
-* Du undviker vidare inblandning.
-
 ## Friluftsliv
 
 #### Utforska
