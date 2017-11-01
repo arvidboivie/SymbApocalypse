@@ -5,6 +5,15 @@
 #### Slåss mot person
 
 #### Slåss mot monster
+När du attackerar ett monster, slå Styrka. På en träff gör du din skada, och väljer en:
+
+* Gör extra skada
+* Ta något från dem
+
+På 7-9, välj en av följande:
+
+* Fienden lyckas attackera dig
+* Du hamnar i en knipa
 
 #### Försvara
 
