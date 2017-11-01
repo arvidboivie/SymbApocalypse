@@ -3,7 +3,7 @@
 ## Fara
 
 #### Attackera
-När du attackerar en fiende, slå Styrka. På en träff gör du din skada, och väljer en:
+När du attackerar en fiende, slå Styrka. På en **träff** gör du din skada, och väljer en:
 
 * Gör extra skada
 * Ta något från dem
@@ -14,6 +14,12 @@ På **7-9**, välj en av följande:
 * Du hamnar i en knipa
 
 #### Försvara
+När du försvarar en varelse, plats eller föremål, slå Styrka. På en **träff**, håll en. På **10+**, håll två. När det du försvar hamnar under attack kan du spendera håll för att:
+
+* Ta emot en attack som var menad för den/det du försvarar.
+* Göra din skada på anfallaren.
+* Ge en vän ett läge att attackera den som anfaller. Din vän får +1 framåt mot anfallaren.
+
 
 #### Undvika
 
@@ -30,7 +36,7 @@ På **7-9**, välj en av följande:
 ## Friluftsliv
 
 #### Utforska
-När du utforskar en ny plats, slå Listig. På en träff inser du platsens syfte. På **10+** vet du något intressant och användbart om den.
+När du utforskar en ny plats, slå Listig. På en **träff** inser du platsens syfte. På **10+** vet du något intressant och användbart om den.
 
 #### Överleva
 
