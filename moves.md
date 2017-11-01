@@ -44,6 +44,7 @@ När du säljer en skatt till en intresserad köpare, slå Övertygande. På en 
 
 
 #### Övertyga
+När du försöker få någon att göra som du vill, slå Övertygande. På en **träff** gör de som du vill. På **7-9** ändrar de villkoren eller så kommer de förvänta sig gentjänst. Vid hot förväntar de sig ingen gentjänst, utan kommer istället ihåg dig och vill hämnas.
 
 #### Hota
 
