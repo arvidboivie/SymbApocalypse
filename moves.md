@@ -34,8 +34,8 @@ När du utforskar en ny plats, slå Listig. På en träff inser du platsens syft
 
 #### Överleva
 
-#### Trotsa mörkret
-När du trotsar mörkret och försöker motstå korruption, slå Viljestark.
+#### Trotsa Mörkret
+När du trotsar Mörkret och försöker motstå korruption, slå Viljestark.
 På **10+**, välj en. På **7-9** väljer du två:
 
 * Markera korruption.
