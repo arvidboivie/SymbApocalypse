@@ -2,10 +2,8 @@
 
 ## Fara
 
-#### Slåss mot person
-
-#### Slåss mot monster
-När du attackerar ett monster, slå Styrka. På en träff gör du din skada, och väljer en:
+#### Attackera
+När du attackerar en fiende, slå Styrka. På en träff gör du din skada, och väljer en:
 
 * Gör extra skada
 * Ta något från dem
