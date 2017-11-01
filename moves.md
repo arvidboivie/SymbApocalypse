@@ -46,7 +46,7 @@ På **10+**, välj en. På **7-9** väljer du två:
 
 
 #### Förstå artefakt
-När du utforskar en artefakt, slå Viljestark. På **10+**, välj 2. På **7-9**, välj 1. Du kan markera korruption för att välja en extra.
+När du utforskar en artefakt, slå Viljestark. På **10+**, välj upp till två. På **7-9**, välj en. Du kan markera korruption för att välja en extra.
 * Förstå vad artefakten gör.
 * Bind artefakten till dig.
 
