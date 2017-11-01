@@ -22,6 +22,7 @@ När du försvarar en varelse, plats eller föremål, slå Styrka. På en **trä
 
 
 #### Undvika
+När du försöker undvika en attack eller fara, slå Kvick. På **10+** lyckas du. På **7-9** lyckas du nästan. Berättaren erbjuder dig ett sämre alternativ eller jobbigt val.
 
 ## Samtal
 
