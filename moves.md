@@ -23,6 +23,7 @@
 ## Friluftsliv
 
 #### Utforska
+När du utforskar en ny plats, slå Listig. På en träff inser du platsens syfte. På 10+ vet du något intressant och användbart om den.
 
 #### Överleva
 
