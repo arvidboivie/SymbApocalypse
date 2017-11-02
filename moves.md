@@ -52,7 +52,13 @@ När du försöker få någon att göra som du vill, slå Övertygande. På en *
 När du försöker klura ut något om en plats eller person, slå Listig.
 På **10+** håll tre. På **7-9** håll en.Spendera håll för att ställa frågor från listan nedan. När du använder kunskapen du fått får du +1 framåt.
 
-* WIP - Frågor
+* Vilken är bästa vägen ut/in/förbi?
+* Vad borde jag hålla utkik efter?
+* Vad här är inte vad det verkar vara?
+* Hur kan jag få personen att ____?
+* Vad hände här nyligen?
+* Vad kommer hända här?
+* Vad här är användbart eller värdefullt?
 
 ## Friluftsliv
 
