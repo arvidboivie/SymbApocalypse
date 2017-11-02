@@ -1,6 +1,4 @@
-# Basic Moves
-
-## Fara
+# Grundläggande drag
 
 #### Attackera
 När du attackerar en fiende, slå Styrka. På en **träff** gör du din skada, och väljer en:
@@ -24,8 +22,6 @@ När du försvarar en varelse, plats eller föremål, slå Styrka. På en **trä
 #### Undvika
 När du försöker undvika en attack eller fara, slå Kvick. På **10+** lyckas du. På **7-9** lyckas du nästan. Berättaren erbjuder dig ett sämre alternativ eller jobbigt val.
 
-## Samtal
-
 #### Köpslå
 När du vill köpa eller sälja ett ovanligt föremål, slå Övertygande. På **10+** så finns det du söker till ett rimligt pris. På **7-9** får du välja en:
 
@@ -40,7 +36,6 @@ När du säljer skatter till en intresserad köpare, slå Övertygande. På en *
 * Ditt rykte som skattletare ökar.
 * Du drar inte till dig oönskad uppmärksamhet.
 * Ingenting kommer letandes efter skatterna du tagit.
-
 
 #### Övertyga
 När du försöker få någon att göra som du vill, slå Övertygande. På en **träff** gör de som du vill. På **7-9** ändrar de villkoren eller så kommer de förvänta sig gentjänst. Vid hot förväntar de sig ingen gentjänst, utan kommer istället ihåg dig och vill hämnas.
@@ -60,8 +55,6 @@ På **10+** håll tre. På **7-9** håll en.Spendera håll för att ställa frå
 * Vad kommer hända här?
 * Vad här är användbart eller värdefullt?
 
-## Friluftsliv
-
 #### Utforska
 När du utforskar en ny plats, slå Listig. På en **träff** inser du platsens syfte. På **10+** vet du något intressant och användbart om den.
 
@@ -75,7 +68,6 @@ När ni försöker överleva i vildmarken och är *väl förberedda*, slår den 
 * Någon av skogens invånare blir varse om er närvaro.
 * Ni lyckas inte undvika vildmarkens Mörker. Alla markerar korruption.
 
-
 #### Trotsa Mörkret
 När du trotsar Mörkret och försöker motstå korruption, slå Viljestark.
 På **10+**, välj en. På **7-9** väljer du två:
@@ -85,7 +77,6 @@ På **10+**, välj en. På **7-9** väljer du två:
 * Du stör det som vilar i Mörkret.
 
 **6-:** Markera korruption. Berättaren gör ett drag.
-
 
 #### Förstå artefakt
 När du utforskar en artefakt, slå Viljestark. På **10+**, välj upp till två. På **7-9**, välj en. Du kan markera korruption för att välja en extra.
