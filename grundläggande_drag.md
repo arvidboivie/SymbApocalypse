@@ -1,7 +1,7 @@
 # Grundläggande drag
 
 #### Attackera
-När du attackerar en fiende, slå Stark. På en **träff** gör du din skada, och väljer en:
+När du attackerar en fiende, slå Träffsäker. På en **träff** gör du din skada, och väljer en:
 
 * Gör extra skada
 * Ta något från dem
