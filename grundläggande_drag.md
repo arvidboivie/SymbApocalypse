@@ -84,3 +84,11 @@ När du utforskar en artefakt, slå Viljestark. På **10+**, välj upp till två
 * Bind artefakten till dig.
 
 **6-:** Markera korruption. Berättaren gör ett drag.
+
+### Döden
+När du håller på att dö, slå. På **10+** överlever du tills dina vänner kan plåstra om dig. På **7-9** överlever du, och väljer en:
+
+* Du förlorar en kroppsdel.
+* Work in progress.
+
+**6-:** Du dör.
