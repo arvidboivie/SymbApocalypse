@@ -47,6 +47,7 @@ När du säljer en skatt till en intresserad köpare, slå Övertygande. På en 
 När du försöker få någon att göra som du vill, slå Övertygande. På en **träff** gör de som du vill. På **7-9** ändrar de villkoren eller så kommer de förvänta sig gentjänst. Vid hot förväntar de sig ingen gentjänst, utan kommer istället ihåg dig och vill hämnas.
 
 #### Tala med andar
+När du kommer med ett erbjudande till en ande som gynnar er båda, slå Viljestark. På en **träff** kommer ni överens. På **7-9** ändrar anden villkoren.
 
 #### Analysera
 När du försöker klura ut något om en plats eller person, slå Listig.
