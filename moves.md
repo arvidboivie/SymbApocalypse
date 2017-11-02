@@ -49,8 +49,8 @@ När du försöker få någon att göra som du vill, slå Övertygande. På en *
 #### Förhandla med andar
 När du kommer till en ande med ett erbjudande som gynnar er båda, slå Viljestark. På en **träff** kommer ni överens. På **7-9** ändrar anden villkoren.
 
-#### Analysera
-När du försöker klura ut något om en plats eller person, slå Listig.
+#### Förstå
+När du försöker förstå något om en plats eller person, slå Listig.
 På **10+** håll tre. På **7-9** håll en.Spendera håll för att ställa frågor från listan nedan. När du använder kunskapen du fått får du +1 framåt.
 
 * Vilken är bästa vägen ut/in/förbi?
