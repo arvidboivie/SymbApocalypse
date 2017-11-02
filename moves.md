@@ -33,7 +33,7 @@ När du vill köpa eller sälja ett ovanligt föremål, slå Övertygande. På *
 * Du får köpa det till rimligt pris om du först gör säljaren en tjänst.
 
 #### Sälja skatter
-När du säljer skatter till en intresserad köpare, slå Övertygande. På en **träff**, välj tre. På **7-9** får du välja en:
+När du säljer skatter till en intresserad köpare, slå Övertygande. På en **10+**, välj tre. På **7-9** får du välja en:
 
 * Du får extra bra betalt.
 * Köparen ger dig tips om nya skatter.
