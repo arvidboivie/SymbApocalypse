@@ -33,14 +33,13 @@ När du vill köpa eller sälja ett ovanligt föremål, slå Övertygande. På *
 * Du får köpa det till rimligt pris om du först gör säljaren en tjänst.
 
 #### Sälja skatter
-// WIP - Får inte till det här riktigt //
+När du säljer skatter till en intresserad köpare, slå Övertygande. På en **träff**, välj tre. På **7-9** får du välja en:
 
-När du säljer en skatt till en intresserad köpare, slå Övertygande. På en **träff** erbjuder köparen ett bra pris. På **7-9** får du välja en:
-
-* Er affär drar inte till sig någons uppmärksamhet.
-* Artefakten går att spåra tillbaka till dig.
-
-// WIP //
+* Du får extra bra betalt.
+* Köparen ger dig tips om nya skatter.
+* Ditt rykte som skattletare ökar.
+* Du drar inte till dig oönskad uppmärksamhet.
+* Ingenting kommer letandes efter skatterna du tagit.
 
 
 #### Övertyga
