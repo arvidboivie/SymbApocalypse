@@ -22,12 +22,6 @@ När du försvarar en varelse, plats eller föremål, slå Stark. På en **träf
 #### Undvika
 När du försöker undvika en attack eller fara, slå Kvick. På **10+** lyckas du. På **7-9** lyckas du nästan. Berättaren erbjuder dig ett sämre alternativ eller jobbigt val.
 
-#### Köpslå
-När du vill köpa eller sälja ett ovanligt föremål, slå Övertygande. På **10+** så finns det du söker till ett rimligt pris. På **7-9** får du välja en:
-
-* Du får betala mer än väntat.
-* Du får köpa det till rimligt pris om du först gör säljaren en tjänst.
-
 #### Övertyga
 När du försöker få någon att göra som du vill, slå Övertygande. På en **träff** gör de som du vill. På **7-9** ändrar de villkoren eller så kommer de förvänta sig gentjänst. Vid hot förväntar de sig ingen gentjänst, utan kommer istället ihåg dig och vill hämnas.
 
