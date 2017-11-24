@@ -28,15 +28,6 @@ När du vill köpa eller sälja ett ovanligt föremål, slå Övertygande. På *
 * Du får betala mer än väntat.
 * Du får köpa det till rimligt pris om du först gör säljaren en tjänst.
 
-#### Sälja skatter
-När du säljer skatter till en intresserad köpare, slå Övertygande. På en **10+**, välj tre. På **7-9** får du välja en:
-
-* Du får extra bra betalt.
-* Köparen ger dig tips om nya skatter.
-* Ditt rykte som skattletare ökar.
-* Du drar inte till dig oönskad uppmärksamhet.
-* Ingenting kommer letandes efter skatterna du tagit.
-
 #### Övertyga
 När du försöker få någon att göra som du vill, slå Övertygande. På en **träff** gör de som du vill. På **7-9** ändrar de villkoren eller så kommer de förvänta sig gentjänst. Vid hot förväntar de sig ingen gentjänst, utan kommer istället ihåg dig och vill hämnas.
 
@@ -45,7 +36,7 @@ När du kommer till en ande med ett erbjudande som gynnar er båda, slå Viljest
 
 #### Förstå
 När du försöker förstå något om en plats eller person, slå Listig.
-På **10+** håll tre. På **7-9** håll en.Spendera håll för att ställa frågor från listan nedan. När du använder kunskapen du fått får du +1 framåt.
+På **10+** håll tre. På **7-9** håll en. Spendera håll för att ställa frågor från listan nedan. När du använder kunskapen du fått får du +1 framåt.
 
 * Vilken är bästa vägen ut/in/förbi?
 * Vad borde jag hålla utkik efter?
