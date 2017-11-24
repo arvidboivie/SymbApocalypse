@@ -80,6 +80,7 @@ När du utforskar en artefakt, slå Viljestark. På **10+**, välj upp till två
 När du håller på att dö, slå. På **10+** överlever du tills dina vänner kan plåstra om dig. På **7-9** överlever du, och väljer en:
 
 * Du förlorar en kroppsdel.
+* Något gör dig ett erbjudande, och om du går med på det får du livet i behåll.
 * Work in progress.
 
 **6-:** Du dör.
