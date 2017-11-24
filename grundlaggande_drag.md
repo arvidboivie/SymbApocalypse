@@ -69,7 +69,8 @@ När du utforskar en artefakt, slå Vilja. På **10+**, välj upp till två. På
 **6-:** Markera korruption. Berättaren gör ett drag.
 
 #### Återhämta
-När du har tid att vila och använder örtkurer, så läker du en skada per dygn.
+När du har sovit en god natts sömn, slå Vilja. På **10+** sudda två korruption. På **7-9** sudda en korruption.
+Har du använt en örtkur på dina skador, sudda en skada.
 
 #### Döden
 När du håller på att dö, slå. På **10+** överlever du tills dina vänner kan plåstra om dig. På **7-9** överlever du, och väljer en:
