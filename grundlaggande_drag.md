@@ -1,7 +1,7 @@
 # Grundläggande drag
 
 #### Attackera
-När du attackerar en fiende, slå Träffsäker. På en **träff** gör du din skada, och väljer en:
+När du attackerar en fiende, slå Blod. På en **träff** gör du din skada, och väljer en:
 
 * Gör extra skada
 * Ta något från dem
@@ -12,7 +12,7 @@ På **7-9**, välj en av följande:
 * Du hamnar i en knipa
 
 #### Försvara
-När du försvarar en varelse, plats eller föremål, slå Stark. På en **träff**, håll en. På **10+**, håll två. När det du försvar hamnar under attack kan du spendera håll för att:
+När du försvarar en varelse, plats eller föremål, slå Blod. På en **träff**, håll en. På **10+**, håll två. När det du försvar hamnar under attack kan du spendera håll för att:
 
 * Ta emot en attack som var menad för den/det du försvarar.
 * Göra din skada på anfallaren.
@@ -20,16 +20,16 @@ När du försvarar en varelse, plats eller föremål, slå Stark. På en **träf
 
 
 #### Undvika
-När du försöker undvika en attack eller fara, slå Kvick. På **10+** lyckas du. På **7-9** lyckas du nästan. Berättaren erbjuder dig ett sämre alternativ eller jobbigt val.
+När du försöker undvika en attack eller fara, slå Lugn. På **10+** lyckas du. På **7-9** lyckas du nästan. Berättaren erbjuder dig ett sämre alternativ eller jobbigt val.
 
 #### Övertyga
-När du försöker få någon att göra som du vill, slå Övertygande. På en **träff** gör de som du vill. På **7-9** ändrar de villkoren eller så kommer de förvänta sig gentjänst. Vid hot förväntar de sig ingen gentjänst, utan kommer istället ihåg dig och vill hämnas.
+När du försöker få någon att göra som du vill, slå Sinne. På en **träff** gör de som du vill. På **7-9** ändrar de villkoren eller så kommer de förvänta sig gentjänst. Vid hot förväntar de sig ingen gentjänst, utan kommer istället ihåg dig och vill hämnas.
 
 #### Förhandla med andar
-När du kommer till en ande med ett erbjudande som gynnar er båda, slå Viljestark. På en **träff** kommer ni överens. På **7-9** ändrar anden villkoren.
+När du kommer till en ande med ett erbjudande som gynnar er båda, slå Vilja. På en **träff** kommer ni överens. På **7-9** ändrar anden villkoren.
 
 #### Förstå
-När du försöker förstå något om en plats eller person, slå Listig.
+När du försöker förstå något om en plats eller person, slå Sinne.
 På **10+** håll tre. På **7-9** håll en. Spendera håll för att ställa frågor från listan nedan. När du använder kunskapen du fått får du +1 framåt.
 
 * Vilken är bästa vägen ut/in/förbi?
@@ -41,12 +41,12 @@ På **10+** håll tre. På **7-9** håll en. Spendera håll för att ställa fr�
 * Vad här är användbart eller värdefullt?
 
 #### Utforska
-När du utforskar en ny plats, slå Listig. På en **träff** inser du platsens syfte. På **10+** vet du något intressant och användbart om den.
+När du utforskar en ny plats, slå Sinne. På en **träff** inser du platsens syfte. På **10+** vet du något intressant och användbart om den.
 
 #### Överleva
-När ni försöker överleva i vildmarken och är *väl förberedda*, slår den som leder vägen Vaksam+1. På **10+** fortsätter ni vara *väl förberedda*. På **7-9** är ni inte längre *väl förberedda* och väljer en från listan nedan.
+När ni försöker överleva i vildmarken och är *väl förberedda*, slår den som leder vägen Lugn+1. På **10+** fortsätter ni vara *väl förberedda*. På **7-9** är ni inte längre *väl förberedda* och väljer en från listan nedan.
 
-Är ni inte *väl förberedda*, slår den som leder vägen Vaksam. På **10+** välj en, på **7-9** välj två:
+Är ni inte *väl förberedda*, slår den som leder vägen Lugn. På **10+** välj en, på **7-9** välj två:
 
 * Ni hittar inget att äta. Alla stryker en ration.
 * Ni får inga chanser att vila. Alla tar -1 fortsatt, tills de får en god natts sömn.
@@ -54,7 +54,7 @@ När ni försöker överleva i vildmarken och är *väl förberedda*, slår den 
 * Ni lyckas inte undvika vildmarkens Mörker. Alla markerar korruption.
 
 #### Trotsa Mörkret
-När du trotsar Mörkret och försöker motstå korruption, slå Viljestark.
+När du trotsar Mörkret och försöker motstå korruption, slå Vilja.
 På **10+**, välj en. På **7-9** väljer du två:
 
 * Markera korruption.
@@ -64,7 +64,7 @@ På **10+**, välj en. På **7-9** väljer du två:
 **6-:** Markera korruption. Berättaren gör ett drag.
 
 #### Förstå artefakt
-När du utforskar en artefakt, slå Viljestark. På **10+**, välj upp till två. På **7-9**, välj en. Du kan markera korruption för att välja en extra.
+När du utforskar en artefakt, slå Vilja. På **10+**, välj upp till två. På **7-9**, välj en. Du kan markera korruption för att välja en extra.
 * Förstå vad artefakten gör.
 * Bind artefakten till dig.
 
