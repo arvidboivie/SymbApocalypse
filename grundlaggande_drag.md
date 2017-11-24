@@ -54,11 +54,9 @@ När ni försöker överleva i vildmarken och är *väl förberedda*, slår den 
 * Ni lyckas inte undvika vildmarkens Mörker. Alla markerar korruption.
 
 #### Trotsa Mörkret
-När du trotsar Mörkret och försöker motstå korruption, slå Vilja.
-På **10+**, välj en. På **7-9** väljer du två:
+När du trotsar Mörkret och försöker motstå korruption, slå Vilja. På en träff, markera korruption. På **7-9** väljer du en:
 
 * Markera korruption.
-* Gör en korruption bestående.
 * Du stör det som vilar i Mörkret.
 
 **6-:** Markera korruption. Berättaren gör ett drag.
