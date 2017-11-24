@@ -1,0 +1,3 @@
+* Ledare
+* Slagskämpe
+* Stigfinnare
